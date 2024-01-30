@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Mac
+.DS_Store
+
+# Wallet credentials
+my-private-key.txt 
+my-solana-wallet.json
