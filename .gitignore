@@ -133,5 +133,4 @@ dist
 .DS_Store
 
 # Wallet credentials
-my-private-key.txt
-my-solana-wallet.json
+solana-wallet.json
